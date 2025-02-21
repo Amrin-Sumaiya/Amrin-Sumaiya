@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📄 Know about my experiences [doing Internship at Suffix-IT-Limited](doing Internship at Suffix-IT-Limited)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
