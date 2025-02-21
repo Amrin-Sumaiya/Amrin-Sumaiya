@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrin-sumaiya" alt="amrin-sumaiya" /></a> </p>
 
-- 🔭 I’m currently working on [Admin Pannel](https://github.com/Amrin-Sumaiya/AdminPortal.git)
+
 
 - 🌱 I’m currently learning **React, JS, Node.Js , Express , Java-Spring**
 
