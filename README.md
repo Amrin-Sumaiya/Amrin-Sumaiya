@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Amrin</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Softwere Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrin-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="amrin-sumaiya" />
+  <img src="https://komarev.com/ghpvc/?username=amrin-sumaiya&label=Profile%20views&color=green&style=flat" alt="amrin-sumaiya" />
 </p>
 
 <p align="center">
-  I am currently focused on full-stack web development, learning and building with the MERN stack and Java Spring.
+  I am currently focused on full-stack web development, learning and building with the MERN stack.
   <br><br>
   <a href="https://my-protfolio-silk-nine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sumaiya-amrin-3b2157283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **React, JS, Node.js, Express, Mongoose, MySQL, Java-Spring**
+- 🌱 I’m currently learning **React, JS, Node.js, Express, Mongoose, MySQL**
 - 💬 Ask me about **Web development & Design**
 - 📫 How to reach me: **amrinsumaiya@gmail.com** (or via LinkedIn)
 
@@ -30,11 +30,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&hide_border=true" alt="Sumaiya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=forest&hide_border=true" alt="Sumaiya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=forest&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrin-sumaiya&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrin-sumaiya&theme=forest&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
