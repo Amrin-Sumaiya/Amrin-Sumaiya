@@ -40,8 +40,8 @@
 ---
 ### 💻 Languages and Tools
 
-<h3 align="center">Frontend Development</h3>
-<p align="center">
+<h3 align="left">Frontend Development</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
@@ -65,8 +65,8 @@
   </a>
 </p>
 
-<h3 align="center">Backend Development</h3>
-<p align="center">
+<h3 align="left">Backend Development</h3>
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
@@ -84,8 +84,8 @@
   </a>
 </p>
 
-<h3 align="center">Database & Tools</h3>
-<p align="center">
+<h3 align="left">Database & Tools</h3>
+<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
@@ -103,13 +103,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amrin-sumaiya&theme=flat&no-frame=true&column=7" alt="amrin-sumaiya" />
-  </a>
-</p>
 ---
 
 <p align="center">
