@@ -8,7 +8,7 @@
 <p align="center">
   I am currently focused on full-stack web development, learning and building with the MERN stack.
   <br><br>
-  <a href="https://my-protfolio-silk-nine.vercel.app/" target="_blank">
+  <a href="https://sumaiyaamrin-244283.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sumaiya-amrin-3b2157283/" target="_blank">
