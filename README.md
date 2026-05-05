@@ -21,7 +21,7 @@
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **React, JS, Node.js, Express, Mongoose, MySQL**
+- 🌱 I’m currently learning **React, JS, Node.js, NextJs, TypeScript, Express, Mongoose, MySQL**
 - 💬 Ask me about **Web development & Design**
 - 📫 How to reach me: **amrinsumaiya@gmail.com** (or via LinkedIn)
 
@@ -109,15 +109,4 @@
   </a>
 </p>
 
-### 📈 My GitHub Journey
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&border_radius=10" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amrin-sumaiya&theme=radical&border_radius=10" width="100%" />
-</div>
