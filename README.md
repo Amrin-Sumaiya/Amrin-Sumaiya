@@ -27,19 +27,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrin-sumaiya&theme=radical&hide_border=true" width="100%" />
-</p>
-
 ---
 ### 💻 Languages and Tools
 <h3>Frontend Development</h3>
@@ -115,8 +102,22 @@
 
 ---
 
+### 📊 GitHub Achivements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amrin-sumaiya&theme=flat&no-frame=true&column=7" alt="amrin-sumaiya" />
   </a>
 </p>
+
+### 📈 My GitHub Journey
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&border_radius=10" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amrin-sumaiya&theme=radical&border_radius=10" width="100%" />
+</div>
