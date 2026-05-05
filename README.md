@@ -29,14 +29,15 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrin-sumaiya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrin-sumaiya&layout=compact&theme=radical&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrin-sumaiya&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amrin-sumaiya&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
