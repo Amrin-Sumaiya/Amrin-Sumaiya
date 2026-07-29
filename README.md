@@ -44,6 +44,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="50" alt="WordPress" />
+    <img src="https://cdn.simpleicons.org/elementor" width="50" alt="Elementor" />
+
   
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" />
 
